@@ -10,7 +10,7 @@ ZoneMons3:
 		db 25,NIDORAN_F
 		db 31,VENOMOTH
 		db 26,TAUROS
-		db 28,LICKITUNG
+		db 28,KANGASKHAN
 	ENDC
 	IF DEF(_BLUE)
 		db 25,NIDORAN_F
@@ -22,6 +22,6 @@ ZoneMons3:
 		db 25,NIDORAN_M
 		db 31,VENOMOTH
 		db 26,TAUROS
-		db 28,LICKITUNG
+		db 28,KANGASKHAN
 	ENDC
 	db $00

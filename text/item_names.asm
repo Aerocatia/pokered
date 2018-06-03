@@ -48,7 +48,7 @@ ItemNames:
 	db "LEAF STONE@"
 	db "CARD KEY@"
 	db "NUGGET@"
-	db "HEART STONE@"
+	db "PP UP@"
 	db "POKé DOLL@"
 	db "FULL HEAL@"
 	db "REVIVE@"
