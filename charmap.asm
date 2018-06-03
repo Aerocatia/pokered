@@ -233,8 +233,6 @@ charmap "'s", $BD
 charmap "'t", $BE
 charmap "'v", $BF
 
-charmap "⁂", $DF
-
 charmap "'", $E0
 
 charmap "-", $E3

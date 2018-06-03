@@ -94,8 +94,8 @@ EvolveMon:
 	jr .done
 
 EvolutionSetWholeScreenPalette:
-	ld d, c
-	jpba _EvolutionSetWholeScreenPalette
+	ld b, SET_PAL_POKEMON_WHOLE_SCREEN
+	jp RunPaletteCommand
 
 Evolution_LoadPic:
 	call GetMonHeader
